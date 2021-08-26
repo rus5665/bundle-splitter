@@ -1,14 +1,14 @@
 import React from 'react'
 import { StyleSheet, Text, View } from 'react-native'
 
-const LoadScreen = () => {
+const CommonButton = () => {
   return (
     <View>
-      <Text>LoadScreen</Text>
+      <Text>CommonButton</Text>
     </View>
   )
 }
 
-export default LoadScreen
+export default CommonButton
 
 const styles = StyleSheet.create({})
